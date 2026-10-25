@@ -1,0 +1,8 @@
+[project]
+name = "ileri-python-hafta5-lab"
+version = "0.1.0"
+description = "İleri Python Programlama Hafta 5 - Dekoratörler"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
